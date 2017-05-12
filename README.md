@@ -1,4 +1,4 @@
-# Cation Anion Plots
+# Cation & Anion Plots
 Scripts for Plotting Cation and Anion Concentrations at Depth for Sample Locations at
 Second Creek, MN
 

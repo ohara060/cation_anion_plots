@@ -2,7 +2,7 @@
 Scripts for Plotting Cation and Anion Concentrations at Depth for Sample Locations at
 Second Creek, MN
 
-Plots data with depth on the y axis mM on the x axis.
+Plots data with depth on the y axis mM or uM on the x axis.
 
 All cation and anion concentrations at depth are displayed at the same time
 
